@@ -1,0 +1,10 @@
+C:\Users\yocch\source\repos\N_SimpleClock\N_SimpleClock\bin\Debug\N_SimpleClock.exe.config
+C:\Users\yocch\source\repos\N_SimpleClock\N_SimpleClock\bin\Debug\N_SimpleClock.exe
+C:\Users\yocch\source\repos\N_SimpleClock\N_SimpleClock\bin\Debug\N_SimpleClock.pdb
+C:\Users\yocch\source\repos\N_SimpleClock\N_SimpleClock\obj\Debug\N_SimpleClock.csprojAssemblyReference.cache
+C:\Users\yocch\source\repos\N_SimpleClock\N_SimpleClock\obj\Debug\N_SimpleClock.Form1.resources
+C:\Users\yocch\source\repos\N_SimpleClock\N_SimpleClock\obj\Debug\N_SimpleClock.Properties.Resources.resources
+C:\Users\yocch\source\repos\N_SimpleClock\N_SimpleClock\obj\Debug\N_SimpleClock.csproj.GenerateResource.cache
+C:\Users\yocch\source\repos\N_SimpleClock\N_SimpleClock\obj\Debug\N_SimpleClock.csproj.CoreCompileInputs.cache
+C:\Users\yocch\source\repos\N_SimpleClock\N_SimpleClock\obj\Debug\N_SimpleClock.exe
+C:\Users\yocch\source\repos\N_SimpleClock\N_SimpleClock\obj\Debug\N_SimpleClock.pdb
